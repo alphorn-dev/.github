@@ -31,6 +31,9 @@ Open <http://localhost:3000>. That's it. Full walkthrough in the [self-hosting g
 <p align="center">
   <img src="./assets/hero.png" alt="Alphorn">
 </p>
+<p align="center">
+  <img src="./assets/screenshot-01.png" alt="Alphorn Screenshot">
+</p>
 
 ## Find us
 

@@ -13,7 +13,7 @@ Sign up and start routing in under a minute. No infra, no upgrades, no 3 AM Post
 ### Self-hosted — your server, your rules
 
 ```bash
-git clone https://github.com/alphorn/alphorn.git
+git clone https://github.com/alphorn-dev/alphorn.git
 cd alphorn && cp .env.example .env
 docker compose up -d
 ```
